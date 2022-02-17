@@ -58,3 +58,6 @@ console.log("Local de realização do evento:", localEvento);
 // Evento Cadastrado com sucesso
 console.log("Evento cadastrado com sucesso");
 
+
+// Em andamento
+
