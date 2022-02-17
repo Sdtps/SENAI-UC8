@@ -32,15 +32,19 @@ console.log("Idade do Responsável:", idaderesponsavel);
 // Idade e igual ou maior que 18?
     if (idaderesponsavel < idadepermitida) {
     console.log("Pessoas menores de 18 anos não podem cadastrar eventos")
+    };
+    if (idaderesponsavel < idadepermitida) {
+        process.exit();
     } else;
 
 // Informe a quantidade de participantes!
-qtparticipantes = 90;
+qtparticipantes = 900;
 console.log("Quantidade de Participantes:", qtparticipantes);
 
 // A quantidade de participantes e maior que 100
     if (qtparticipantes > 100) {
     console.log("Quantidade de participantes não pode ser acima de 100 pessoas")
+        process.exit();
     } else;
 
 // Informe a Data do evento
@@ -52,6 +56,7 @@ console.log("Data Prevista para a Realização: ", dataEvento);
     console.log("Data Invalida")
     } else;
 
+// Escolha o local do evento
 localEvento = "Praça01";
 console.log("Local de realização do evento:", localEvento);
 
