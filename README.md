@@ -1,3 +1,4 @@
 # UC8
-###Repositório da atividade do encontro 01 da unidade UC8 - Full Stack Developer
-###Atividade 02 do encontro 01 da unidade UC8 - Full Stack Developer esta na Brand Master
+#### Repositório da unidade UC8 - Full Stack Developer
+#### Atividade do encontro remoto 01 esta na branch main
+#### Atividade Oline 02 da unidade esta na branch master
